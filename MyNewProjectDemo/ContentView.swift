@@ -3,7 +3,7 @@
 //  MyNewProjectDemo
 //
 //  Created by Vedic Rishi on 18/11/19.
-//  Copyright © 2019 Vedic Rishi Astro. All rights reserved.
+//  Copyright © 2019 Ve'firstdic Rishi Astro. All rights reserved.
 //
 
 import SwiftUI
